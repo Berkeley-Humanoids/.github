@@ -56,7 +56,7 @@ We develop humanoid mechanical hardware, robot-control software, computing syste
     <tr>
       <td rowspan="4" align="center"><b>Control System</b></td>
       <td>
-        <a href="https://github.com/Berkeley-Humanoids/bar_ros2">bar_ros2</a><br>
+        <a href="https://github.com/Berkeley-Humanoids/humanoid_control">humanoid_control</a><br>
         ROS 2 control stack and real-robot interfaces for humanoids platforms.
       </td>
       <td align="center">
